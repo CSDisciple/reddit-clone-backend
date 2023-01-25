@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spring-reddit-clone
 Reddit clone built using Spring Boot, Spring Security with JPA Authentication, Spring Data JPA with MySQL, Spring MVC. The frontend is built using Angular - You can find the frontend source code here - https://github.com/SaiUpadhyayula/angular-reddit-clone
 
@@ -27,3 +28,8 @@ https://github.com/SaiUpadhyayula/angular-reddit-clone
 5. User Profile Page
 
 ![User Profile Page](https://github.com/SaiUpadhyayula/spring-reddit-clone/blob/master/src/main/resources/images/user-profile.PNG)
+=======
+# reddit-clone-backend
+Backend was taken from programming techie walk through of full stack app development blog post. I am using this code for learning purposes.
+https://programmingtechie.com/2019/11/08/build-a-full-stack-reddit-clone-with-spring-boot-and-angular-part-3/
+>>>>>>> d95d7f72990bf1dd6b6b3845abce610e6f765bc3
